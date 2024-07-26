@@ -7,9 +7,8 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.12"
-pendulum = "^3.0.0"
 aiogram = "^3.10.0"
-pandas = "^2.2.2"
+pydantic-settings = "^2.3.4"
 
 
 [build-system]
